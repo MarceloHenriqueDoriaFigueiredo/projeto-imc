@@ -7,7 +7,7 @@ function imc(){
     const resultado = document.querySelector("#result");
 
     if (name !== "" && peso !== "" && altura !== ""){
-        const valorIMC = (peso / (altura * altura)).toFixed(2);
+        const valorIMC =(peso / (altura * altura)).toFixed(2);
         let classificacao = ""
 
         if (valorIMC < 18.5){
@@ -23,12 +23,12 @@ function imc(){
         } else{
             classificacao = "Obesidade grau 3. Cuidado"
         }
-        resultado.innerHTML = `${name} seu IMC é <br/> ${valorIMC} e você esta ${classificacao}`;
+        resultado.textContent = `${name} seu IMC é ${valorIMC} e você esta ${classificacao}`;
         resultado.classList = "msg";
         setTimeout(() => {
-            resultado.innerHTML = "";
+            resultado.textContent = "";
             resultado.classList = "";
-        }, 3000);
+        }, 5000);
         return;
     }
 }

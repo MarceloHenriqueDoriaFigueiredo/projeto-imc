@@ -81,9 +81,15 @@ button{
 }
 
 .msg{
-    background:yellow;
+    background: #F7F7F7;
     font-size: 18px;
-    color: red;
+    color: black;
     text-align: center;
     margin: 10px;
+    width: 290px;
+    height: 70px;
+    border-radius: 5px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
 }
