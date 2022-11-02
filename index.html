@@ -6,33 +6,44 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Calculadora IMC</title>
     <link rel="stylesheet" href="style.css">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Roboto&display=swap" rel="stylesheet"> 
 </head>
 <body>
-    <section>
-        <form action="#">
-            <div class="container">
-                <div class="titulo">
-                    Calculadora IMC
+    <main>
+        <section>
+            <form action="#">
+                <div class="container">
+                    <div class="titulo">
+                        Calculadora IMC
+                    </div>
+        
+                    <div class="input">
+                        <label for="#">Nome: </label>
+                        <input type="text" placeholder="Informe seu nome">
+                    </div>
+        
+                    <div class="input">
+                        <label for="#">Peso: </label>
+                        <input type="number" id="peso" placeholder="Informe seu peso">
+                    </div>
+        
+                    <div class="input">
+                        <label for="#">Altura: </label>
+                        <input type="number" placeholder="Informe sua altura">
+                    </div>
+                        <button id="calcular">Calcular</button>
+                        <!-- <div class="resultado" id="result">aaaa</div> -->
                 </div>
-            
-                <div class="input">
-                    <label for="">Informe seu nome: </label>
-                    <input type="text">
-                </div>
-            
-                <div class="input">
-                    <label for="">Informe seu peso: </label>
-                    <input type="number" id="peso">
-                </div>
-            
-                <div class="input">
-                    <label for="">Informe sua altura: </label>
-                    <input type="number">
-                </div>
-                    <button id="calcular">Calcular</button>
-                    <div class="resultado" id="result"></div>
-            </div>
-        </form>
-    </section>
+            </form>
+        </section>
+        
+        <section class="resultado-imc">
+            <form action="#">
+                <div class="resultado" id="result">aaaaa</div>
+            </form>
+        </section>
+    </main>
 </body>
 </html>
