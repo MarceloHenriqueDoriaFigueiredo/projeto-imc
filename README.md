@@ -1,19 +1,40 @@
-# Projeto calculadora imc
+<h1 align="center"> Projeto calculadora imc </h1>
 
-O projeto calculadora imc tem como objetivo avaliar se uma pessoa está dentro do peso que é considerado ideal para a sua altura.
+<p align="center">
+  <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-layout">Layout</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#memo-licença">Licença</a>
+</p>
 
-# Versão para Desktop:
+<p align="center">
+  <img alt="License" src="https://img.shields.io/static/v1?label=license&message=MIT&color=49AA26&labelColor=000000">
+</p>
 
-![image](https://user-images.githubusercontent.com/68343463/199851331-e6ea6638-ce57-46c9-b2f1-1fb73aa3cbf5.png)
+<br>
 
-# Versão para Mobile:
+<p align="center">
+ <h2>Desktop</h2>
+  <img alt="calendario da copa" src=".github/desktop.png" width="80%">
+  
+  <h2>Mobile</h2>
+  <img align="center" alt="calendario da copa" src=".github/mobile.png" width="30%">
+</p>
 
-![image](https://user-images.githubusercontent.com/68343463/199851872-b341d5d2-af4d-4b1d-bafa-8fdf8257fa40.png)
+## 🚀 Tecnologias
 
-Tecnologias utilizadas:
+Esse projeto foi desenvolvido com as seguintes tecnologias:
 
-* HTML
-* CSS
-* JavaScript
+- HTML e CSS
+- JavaScript
+- Git e Github
 
-Resultado final:  <a href="https://marcelohenriquedoriafigueiredo.github.io/projeto-imc/">https://marcelohenriquedoriafigueiredo.github.io/projeto-imc/</a> 
+## 💻 Projeto
+
+O projeto calculadora imc tem como objetivo avaliar se uma pessoa está dentro do peso que é considerado ideal para a sua altura..
+
+## :memo: Licença
+
+Esse projeto está sob a licença MIT.
+
+---
