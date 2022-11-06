@@ -14,10 +14,10 @@
 
 <p align="center">
  <h2>Desktop</h2>
-  <img alt="calendario da copa" src=".github/desktop.png" width="100%">
+  <img alt="calculadora IMC" src=".github/desktop.png" width="100%">
   
   <h2>Mobile</h2>
-  <img align="center" alt="calendario da copa" src=".github/mobile.png" width="50%">
+  <img alt="Calculadora IMC" src=".github/mobile.png" width="50%">
 </p>
 
 ## 🚀 Tecnologias
