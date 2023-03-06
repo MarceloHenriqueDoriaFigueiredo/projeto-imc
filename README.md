@@ -31,7 +31,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## 💻 Projeto
 
-O projeto calculadora imc tem como objetivo avaliar se uma pessoa está dentro do peso que é considerado ideal para a sua altura..
+O projeto calculadora imc tem como objetivo avaliar se uma pessoa está dentro do peso que é considerado ideal para a sua altura.
 
 ## :memo: Licença
 
